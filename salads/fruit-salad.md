@@ -23,7 +23,7 @@
    - Slice the banana.
    - Core and chop the apple.
    - Peel and section the orange.
-
+   - blablabla
 2. **Mix the Fruits:**
    - In a large bowl, gently mix all the prepared fruits together.
 
